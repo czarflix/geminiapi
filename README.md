@@ -24,7 +24,7 @@ A FastAPI-based wrapper for Google Gemini's web interface that provides a RESTfu
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/czarflix/geminiapi
 cd GeminiCustomWrapper
 ```
 
